@@ -1,4 +1,4 @@
-# Software 2 - Class Exercise 4
+# Software 2 - Class Exercise 9
 # Goal
 Learn how to add Entity Framework Core to your project and write basic queries
 
